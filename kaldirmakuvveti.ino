@@ -1,3 +1,6 @@
+//Hilmi Ogün SEYREK
+//ogunseyrek@gmail.com
+
 #include <hx711.h>  //ağırlık sensörü için kütüphane
 #include <Wire.h>  //lcd ekran haberleşmesi üçün kütüphane
 #include <LiquidCrystal_I2C.h>  //lcd ekran kütüphanesi
